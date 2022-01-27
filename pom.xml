@@ -65,7 +65,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>siserp-logistica-backend</finalName>
+		<finalName>sisnna-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
